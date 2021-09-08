@@ -7,9 +7,9 @@
 
 1. Previous coding Experience:
    - C++: C++ for dummies
-   - Python: from Codecademy
+   - Python: from Codecademy (Python 2, not 3)
    - Java: from Codecademy
-   - Javascript?: Littlebit from Codecademy
+   - Javascript?: Littlebit from Codecademy not much though
 2. I want to know more about coding, and have tasks to code. I find coding interesting. My father works in IT.
 3. I want to get better in coding for science, and increase my knowledge in the field. Make my own projects.
 4. Goals? I want to try to make something that could benefit me in the future. A program that will transfer a photo of charts or a screenshot of charts into a digital copy of said chart.
